@@ -17,7 +17,7 @@ Para probar la aplicación da clic [aquí.](https://github.com/JoshVargasM3/Flut
 <p align="center" dir="auto">
   
 
-<img align="center" src="https://github.com/JoshVargasM3/FlutterWithDart/blob/main/AppFormularioImagenes/CapturaLoginInicio.PNG" width="70%">
+<img align="center" src="https://github.com/JoshVargasM3/FlutterWithDart/blob/main/AppFormularioImagenes/CapturaLoginInicio.PNG" width="100%">
 </p>
 
 ### Aplicación
@@ -38,7 +38,7 @@ Después de descargar el proyecto del archio .zip, puede abrir el "**archivo eje
 Pagina Inicio/Llenado de campos.
    <br>
   <br>
-<img align="center" src="https://github.com/JoshVargasM3/FlutterWithDart/blob/main/AppFormularioImagenes/CapturaLlenadoCamposCorrecto.PNG" width="70%">
+<img align="center" src="https://github.com/JoshVargasM3/FlutterWithDart/blob/main/AppFormularioImagenes/CapturaLlenadoCamposCorrecto.PNG" width="100%">
  <br>
   <br>
 </p>
@@ -49,7 +49,7 @@ Pagina Inicio/Llenado de campos.
     <br>
 
  
-<img align="center" src="https://github.com/JoshVargasM3/FlutterWithDart/blob/main/AppFormularioImagenes/CapturaSolicitudLlenadoCampos.PNG" width="70%">
+<img align="center" src="https://github.com/JoshVargasM3/FlutterWithDart/blob/main/AppFormularioImagenes/CapturaSolicitudLlenadoCampos.PNG" width="100%">
    <br>
   <br>
 </p>
@@ -58,7 +58,7 @@ Pagina Inicio/Llenado de campos.
   Pagina de ingreso exitoso! Animacion de fondo 1.0
    <br>
     <br>
-<img align="center" src="https://github.com/JoshVargasM3/FlutterWithDart/blob/main/AppFormularioImagenes/CapturaPaginaRespuestaAnimacion1.PNG" width="70%">
+<img align="center" src="https://github.com/JoshVargasM3/FlutterWithDart/blob/main/AppFormularioImagenes/CapturaPaginaRespuestaAnimacion1.PNG" width="100%">
    <br>
   <br>
 </p>
@@ -67,7 +67,7 @@ Pagina Inicio/Llenado de campos.
   Pagina de ingreso exitoso! Animacion de fondo 2.0
    <br>
     <br>
-<img align="center" src="https://github.com/JoshVargasM3/FlutterWithDart/blob/main/AppFormularioImagenes/CapturaPaginaRespuestaAnimacion2.PNG" width="70%">
+<img align="center" src="https://github.com/JoshVargasM3/FlutterWithDart/blob/main/AppFormularioImagenes/CapturaPaginaRespuestaAnimacion2.PNG" width="100%">
    <br>
   <br>
 </p>
@@ -77,7 +77,7 @@ Pagina Inicio/Llenado de campos.
   <br>
    <br>
   
-<img align="center" src="https://github.com/JoshVargasM3/FlutterWithDart/blob/main/AppFormularioImagenes/CapturaImplementacionDrawer.PNG" width="70%">
+<img align="center" src="https://github.com/JoshVargasM3/FlutterWithDart/blob/main/AppFormularioImagenes/CapturaImplementacionDrawer.PNG" width="100%">
 </p>
 
 ## Tecnologias utilizadas
